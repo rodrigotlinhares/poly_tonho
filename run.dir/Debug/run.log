@@ -1,0 +1,17 @@
+﻿La génération a démarré 20/03/2013 16:36:56.
+     1>Projet "C:\Users\Roger\Desktop\hmm\videoPolynom_wx_tracking\build\run.vcxproj" sur le nœud 4 (build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "..\..\run.dir\Debug\run.unsuccessfulbuild".
+       CustomBuild:
+         Building Custom Rule C:/Users/Roger/Desktop/hmm/videoPolynom_wx_tracking/src/gui/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Roger\Desktop\hmm\videoPolynom_wx_tracking\build\src\gui\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IC:/opencv/build/include /IC:/opencv/build/include/opencv /IC:/Users/Roger/Desktop/hmm/videoPolynom_wx_tracking/src /Zi /nologo /Wall /WX- /Od /Ob0 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\..\run.dir\Debug\\" /Fd"C:/Users/Roger/Desktop/hmm/videoPolynom_wx_tracking/build/src/gui/Debug/../../run.pdb" /Gd /TP /errorReport:prompt ..\src\gui\guiapp.cpp  -g 
+     1>cl : Command line warning D9002: ignoring unknown option '-g'
+         guiapp.cpp
+     1>..\src\gui\guiapp.cpp(13): fatal error C1083: Cannot open include file: 'wx/wxprec.h': No such file or directory
+     1>Génération du projet "C:\Users\Roger\Desktop\hmm\videoPolynom_wx_tracking\build\run.vcxproj" terminée (build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.48

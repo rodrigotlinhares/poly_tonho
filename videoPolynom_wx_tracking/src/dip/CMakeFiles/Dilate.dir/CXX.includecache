@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/dilate.cpp
+dilate.h
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/dilate.h
+iostream
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/dilate.h
+

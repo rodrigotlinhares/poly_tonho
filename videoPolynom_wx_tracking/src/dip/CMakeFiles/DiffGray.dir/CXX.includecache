@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/diffGray.cpp
+diffGray.h
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/diffGray.h
+math.h
+-
+malloc.h
+-
+string.h
+-
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/diffGray.h
+iostream
+-
+

@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="POLYMCPP" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV\;CMake Files\src\;CMake Files\src\gui\;CMake Files\src\util\;CMake Files\src\classifiers\;CMake Files\src\drawing\;CMake Files\src\imageView\;CMake Files\src\camModule\;CMake Files\src\dip\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="../../run">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/../../run" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 ../../run" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="../../run/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/../../run" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 ../../run/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_colorModel">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_colorModel.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_colorModel" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_colorModel/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_colorModel.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_colorModel/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_pattern">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_pattern.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_pattern" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_pattern/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_pattern.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_pattern/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_topologicalMap">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_topologicalMap.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_topologicalMap" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dlg_topologicalMap/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libDlg_topologicalMap.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Dlg_topologicalMap/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Frm_main">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libFrm_main.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Frm_main" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Frm_main/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/libFrm_main.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 Frm_main/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ColorSpace">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/libColorSpace.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 ColorSpace" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ColorSpace/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/libColorSpace.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 ColorSpace/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Background">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libBackground.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 Background" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Background/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libBackground.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 Background/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Pattern">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libPattern.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 Pattern" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Pattern/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libPattern.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 Pattern/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="PolyMahalanobis">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libPolyMahalanobis.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 PolyMahalanobis" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="PolyMahalanobis/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/libPolyMahalanobis.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 PolyMahalanobis/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderMaha">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderMaha.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderMaha" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderMaha/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderMaha.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderMaha/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderTopolMaps">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderTopolMaps.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderTopolMaps" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderTopolMaps/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderTopolMaps.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderTopolMaps/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderTrack">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderTrack.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderTrack" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolderTrack/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/libImageHolderTrack.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 ImageHolderTrack/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolder">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/libImageHolder.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 ImageHolder" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ImageHolder/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/libImageHolder.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 ImageHolder/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="CamModule">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/libCamModule.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 CamModule" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="CamModule/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/libCamModule.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 CamModule/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="LogitechWrapper">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/libLogitechWrapper.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 LogitechWrapper" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="LogitechWrapper/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/libLogitechWrapper.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 LogitechWrapper/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="DiffGray">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libDiffGray.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 DiffGray" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="DiffGray/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libDiffGray.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 DiffGray/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dilate">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libDilate.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Dilate" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Dilate/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libDilate.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Dilate/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="FrameObjects">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libFrameObjects.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 FrameObjects" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="FrameObjects/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libFrameObjects.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 FrameObjects/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Labeling">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libLabeling.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Labeling" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Labeling/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libLabeling.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Labeling/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Tracking">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libTracking.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Tracking" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Tracking/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libTracking.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Tracking/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Trajectories">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libTrajectories.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Trajectories" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Trajectories/fast">
+         <Option output="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/libTrajectories.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-D_FILE_OFFSET_BITS=64" />
+            <Add option="-D_LARGE_FILES" />
+            <Add option="-D__WXGTK__" />
+            <Add directory="/usr/include/wx-2.8" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-release-2.8" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 Trajectories/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/camModule.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/logitechWrapper.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/background.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/pattern.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/polyMahalanobis.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/diffGray.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/dilate.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/frameObjects.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/labeling.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/tracking.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/trajectories.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderMaha.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderTopolMaps.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderTrack.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_colormodel.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_pattern.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_topologicalmap.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/frm_main.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/guiapp.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycEvtReferences.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycImageDraw.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycImageHolder.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycMouseEvt.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/colorSpace.cpp">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/camModule.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/logitechWrapper.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/background.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/pattern.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/polyMahalanobis.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/diffGray.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/dilate.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/frameObjects.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/labeling.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/tracking.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/trajectories.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderMaha.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderTopolMaps.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/cycImageHolderTrack.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_colormodel.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_pattern.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/dlg_topologicalmap.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/frm_main.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/guiapp.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycEvtReferences.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycImageDraw.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycImageHolder.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/cycMouseEvt.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/colorSpace.h">
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/gui/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\gui\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\util\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/classifiers/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\classifiers\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/drawing/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\drawing\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/imageView/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\imageView\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\camModule\" />
+      </Unit>
+      <Unit filename="/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\dip\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

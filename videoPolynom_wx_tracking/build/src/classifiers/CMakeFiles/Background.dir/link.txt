@@ -1,0 +1,2 @@
+/usr/bin/ar cr libBackground.a  CMakeFiles/Background.dir/background.cpp.o
+/usr/bin/ranlib libBackground.a

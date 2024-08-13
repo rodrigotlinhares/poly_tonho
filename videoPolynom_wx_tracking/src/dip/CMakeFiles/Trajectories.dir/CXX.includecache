@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/trajectories.cpp
+trajectories.h
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/trajectories.h
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/dip/trajectories.h
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+vector
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/logitechWrapper.cpp
+logitechWrapper.h
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/logitechWrapper.h
+sstream
+-
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/camModule/logitechWrapper.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+string
+-
+

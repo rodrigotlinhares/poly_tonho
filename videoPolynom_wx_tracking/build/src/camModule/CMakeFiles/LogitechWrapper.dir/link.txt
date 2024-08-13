@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLogitechWrapper.a  CMakeFiles/LogitechWrapper.dir/logitechWrapper.cpp.o
+/usr/bin/ranlib libLogitechWrapper.a

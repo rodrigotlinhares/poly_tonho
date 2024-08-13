@@ -1,0 +1,2 @@
+/usr/bin/ar cr libImageHolderTrack.a  CMakeFiles/ImageHolderTrack.dir/cycImageHolderTrack.cpp.o
+/usr/bin/ranlib libImageHolderTrack.a

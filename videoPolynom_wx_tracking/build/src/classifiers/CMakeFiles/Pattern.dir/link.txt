@@ -1,0 +1,2 @@
+/usr/bin/ar cr libPattern.a  CMakeFiles/Pattern.dir/pattern.cpp.o
+/usr/bin/ranlib libPattern.a

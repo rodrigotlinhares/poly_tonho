@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDlg_colorModel.a  CMakeFiles/Dlg_colorModel.dir/dlg_colormodel.cpp.o
+/usr/bin/ranlib libDlg_colorModel.a

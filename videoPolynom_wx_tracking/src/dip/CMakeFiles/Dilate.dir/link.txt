@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDilate.a  CMakeFiles/Dilate.dir/dilate.cpp.o
+/usr/bin/ranlib libDilate.a

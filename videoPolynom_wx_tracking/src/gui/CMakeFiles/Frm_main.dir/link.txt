@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFrm_main.a  CMakeFiles/Frm_main.dir/frm_main.cpp.o
+/usr/bin/ranlib libFrm_main.a

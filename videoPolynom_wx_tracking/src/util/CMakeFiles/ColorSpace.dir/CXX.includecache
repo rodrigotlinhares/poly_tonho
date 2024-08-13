@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/colorSpace.cpp
+colorSpace.h
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/colorSpace.h
+
+/home/lapix/Desktop/hmm/videoPolynom_wx_tracking/src/util/colorSpace.h
+cmath
+-
+algorithm
+-
+

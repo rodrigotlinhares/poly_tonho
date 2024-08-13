@@ -1,0 +1,2 @@
+/usr/bin/ar cr libImageHolder.a  CMakeFiles/ImageHolder.dir/cycEvtReferences.cpp.o CMakeFiles/ImageHolder.dir/cycImageDraw.cpp.o CMakeFiles/ImageHolder.dir/cycImageHolder.cpp.o CMakeFiles/ImageHolder.dir/cycMouseEvt.cpp.o
+/usr/bin/ranlib libImageHolder.a

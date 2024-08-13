@@ -1,0 +1,2 @@
+/usr/bin/ar cr libColorSpace.a  CMakeFiles/ColorSpace.dir/colorSpace.cpp.o
+/usr/bin/ranlib libColorSpace.a

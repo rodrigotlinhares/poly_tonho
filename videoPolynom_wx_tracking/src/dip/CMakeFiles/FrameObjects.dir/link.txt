@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFrameObjects.a  CMakeFiles/FrameObjects.dir/frameObjects.cpp.o
+/usr/bin/ranlib libFrameObjects.a

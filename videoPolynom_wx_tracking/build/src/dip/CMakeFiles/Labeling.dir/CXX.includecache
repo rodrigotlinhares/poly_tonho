@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rodrigolinhares/Desktop/poly_tonho/videoPolynom_wx_tracking/src/dip/labeling.cpp
+labeling.h
+/home/rodrigolinhares/Desktop/poly_tonho/videoPolynom_wx_tracking/src/dip/labeling.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/rodrigolinhares/Desktop/poly_tonho/videoPolynom_wx_tracking/src/dip/labeling.h
+iostream
+-
+vector
+-
+

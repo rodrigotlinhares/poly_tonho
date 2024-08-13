@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDiffGray.a  CMakeFiles/DiffGray.dir/diffGray.cpp.o
+/usr/bin/ranlib libDiffGray.a

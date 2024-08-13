@@ -1,0 +1,2 @@
+/usr/bin/ar cr libPolyMahalanobis.a  CMakeFiles/PolyMahalanobis.dir/polyMahalanobis.cpp.o
+/usr/bin/ranlib libPolyMahalanobis.a

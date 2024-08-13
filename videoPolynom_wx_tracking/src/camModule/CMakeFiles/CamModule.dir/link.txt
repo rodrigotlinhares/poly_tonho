@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCamModule.a  CMakeFiles/CamModule.dir/camModule.cpp.o
+/usr/bin/ranlib libCamModule.a

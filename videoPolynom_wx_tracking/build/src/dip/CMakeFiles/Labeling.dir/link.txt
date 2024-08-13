@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLabeling.a  CMakeFiles/Labeling.dir/labeling.cpp.o
+/usr/bin/ranlib libLabeling.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDlg_pattern.a  CMakeFiles/Dlg_pattern.dir/dlg_pattern.cpp.o
+/usr/bin/ranlib libDlg_pattern.a

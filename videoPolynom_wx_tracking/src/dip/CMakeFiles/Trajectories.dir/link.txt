@@ -1,0 +1,2 @@
+/usr/bin/ar cr libTrajectories.a  CMakeFiles/Trajectories.dir/trajectories.cpp.o
+/usr/bin/ranlib libTrajectories.a

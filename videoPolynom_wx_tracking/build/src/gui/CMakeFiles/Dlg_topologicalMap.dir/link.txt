@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDlg_topologicalMap.a  CMakeFiles/Dlg_topologicalMap.dir/dlg_topologicalmap.cpp.o
+/usr/bin/ranlib libDlg_topologicalMap.a

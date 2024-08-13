@@ -1,0 +1,2 @@
+/usr/bin/ar cr libImageHolderTopolMaps.a  CMakeFiles/ImageHolderTopolMaps.dir/cycImageHolderTopolMaps.cpp.o
+/usr/bin/ranlib libImageHolderTopolMaps.a

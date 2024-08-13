@@ -1,0 +1,2 @@
+/usr/bin/ar cr libImageHolderMaha.a  CMakeFiles/ImageHolderMaha.dir/cycImageHolderMaha.cpp.o
+/usr/bin/ranlib libImageHolderMaha.a
